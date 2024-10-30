@@ -5,19 +5,19 @@
   "items": [
     {
       "text": "Introduction",
-      "link": "/steelshield/proof-of-identity/introduction"
+      "link": "/proof-of-identity/introduction"
     },
     {
       "text": "Integration",
-      "link": "/steelshield/proof-of-identity/integration"
+      "link": "/proof-of-identity/integration"
     },
     {
       "text": "Additional Notes",
-      "link": "/steelshield/proof-of-identity/additional-notes"
+      "link": "/proof-of-identity/additional-notes"
     },
     {
       "text": "Psuedo Code",
-      "link": "/steelshield/proof-of-identity/psuedo-code"
+      "link": "/proof-of-identity/psuedo-code"
     }
   ]
 }
